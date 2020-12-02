@@ -1,0 +1,12 @@
+{
+    "name": "devnat/bmi-calculator",
+    "description": "This demo package will do some calculations",
+    "authors": [
+        {
+            "name": "Hafizzuddin",
+            "email": "dien9616@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
